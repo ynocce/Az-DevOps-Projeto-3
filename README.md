@@ -1,4 +1,4 @@
-# Como criar Service Connection Azure resource manager no Azure DevOps.
+# Como criar uma Service Connection Azure resource manager no Azure DevOps.
 
 Esse tutorial tem como objetivo criar uma Service Connection com Service Principal do Azure Portal no Azure DevOps.
 
